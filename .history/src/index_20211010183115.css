@@ -3,11 +3,7 @@
 @import './styles/Header.css';
 @import './styles/Footer.css';
 @import './styles/Main.css';
-@import './styles/SatSetting.css';
-@import './styles/SatelliteList.css';
-@import './styles/WorldMap.css';
-
-body {
+@import './styles/SatSetting.css' body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
